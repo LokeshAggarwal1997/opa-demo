@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <first_editor relative-caret-position="898">
+                <caret line="73" selection-start-line="73" selection-end-line="73" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -49,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="-2" />
     <option name="width" value="1366" />
     <option name="height" value="770" />
@@ -68,11 +68,6 @@
               <item name="opa-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="opa-demo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="opa-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="opa-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="README.md" type="ab9368bb:PsiFileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -80,6 +75,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -181,8 +177,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <first_editor relative-caret-position="898">
+            <caret line="73" selection-start-line="73" selection-end-line="73" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
